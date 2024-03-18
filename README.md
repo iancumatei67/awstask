@@ -1,4 +1,5 @@
 Task:
+
 <img width="716" alt="aws task " src="https://github.com/iancumatei67/awstask/assets/127155074/1d251e22-43ba-42f8-b36f-29519f19b724">
 
 The running application on the ec2-instance:
